@@ -37,3 +37,5 @@ class Solution:
 
             else:
                 b = _mid - 1
+        
+        return False
