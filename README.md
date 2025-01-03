@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AceAltair13/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/AceAltair13/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AceAltair13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AceAltair13/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/AceAltair13/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AceAltair13/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AceAltair13/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/AceAltair13/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AceAltair13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AceAltair13/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AceAltair13/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AceAltair13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AceAltair13/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
