@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/AceAltair13/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/AceAltair13/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AceAltair13/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AceAltair13/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/AceAltair13/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AceAltair13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/AceAltair13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/AceAltair13/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Queue
 |  |
 | ------- |
