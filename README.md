@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AceAltair13/leetcode-solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/AceAltair13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AceAltair13/leetcode-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AceAltair13/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AceAltair13/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AceAltair13/leetcode-solutions/tree/master/0139-word-break) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AceAltair13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AceAltair13/leetcode-solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AceAltair13/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AceAltair13/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/AceAltair13/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/AceAltair13/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AceAltair13/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AceAltair13/leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AceAltair13/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AceAltair13/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AceAltair13/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AceAltair13/leetcode-solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
