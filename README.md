@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AceAltair13/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AceAltair13/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AceAltair13/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/AceAltair13/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/AceAltair13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AceAltair13/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AceAltair13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AceAltair13/leetcode-solutions/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -318,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AceAltair13/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
