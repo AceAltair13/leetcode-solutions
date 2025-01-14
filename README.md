@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/AceAltair13/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AceAltair13/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AceAltair13/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0952-word-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AceAltair13/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/AceAltair13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
