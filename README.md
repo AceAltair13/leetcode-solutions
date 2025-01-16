@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/AceAltair13/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AceAltair13/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/AceAltair13/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0040-combination-sum-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AceAltair13/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/AceAltair13/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AceAltair13/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AceAltair13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/AceAltair13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AceAltair13/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
