@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AceAltair13/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AceAltair13/leetcode-solutions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/AceAltair13/leetcode-solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/AceAltair13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AceAltair13/leetcode-solutions/tree/master/0079-word-search) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AceAltair13/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/AceAltair13/leetcode-solutions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/AceAltair13/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AceAltair13/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AceAltair13/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AceAltair13/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AceAltair13/leetcode-solutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
