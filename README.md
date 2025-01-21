@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AceAltair13/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1524-string-matching-in-an-array](https://github.com/AceAltair13/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AceAltair13/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AceAltair13/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AceAltair13/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0952-word-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AceAltair13/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AceAltair13/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AceAltair13/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AceAltair13/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Queue
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AceAltair13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/AceAltair13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Quickselect
 |  |
 | ------- |
