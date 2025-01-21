@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/AceAltair13/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AceAltair13/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AceAltair13/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2428-equal-row-and-column-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/AceAltair13/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [2428-equal-row-and-column-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AceAltair13/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AceAltair13/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AceAltair13/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AceAltair13/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
