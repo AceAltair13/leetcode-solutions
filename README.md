@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AceAltair13/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/AceAltair13/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/AceAltair13/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AceAltair13/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AceAltair13/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
