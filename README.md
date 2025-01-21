@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/AceAltair13/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AceAltair13/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AceAltair13/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2470-removing-stars-from-a-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AceAltair13/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
 |  |
@@ -431,4 +432,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
