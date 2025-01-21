@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/AceAltair13/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/AceAltair13/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0952-word-subsets) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AceAltair13/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AceAltair13/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/AceAltair13/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/AceAltair13/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AceAltair13/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
