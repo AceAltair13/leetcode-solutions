@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AceAltair13/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AceAltair13/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AceAltair13/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/AceAltair13/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0952-word-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AceAltair13/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AceAltair13/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/AceAltair13/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/AceAltair13/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AceAltair13/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AceAltair13/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/AceAltair13/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Counting
 |  |
 | ------- |
