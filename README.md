@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/AceAltair13/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AceAltair13/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/AceAltair13/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AceAltair13/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0969-number-of-recent-calls](https://github.com/AceAltair13/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AceAltair13/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/AceAltair13/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Geometry
 |  |
 | ------- |
