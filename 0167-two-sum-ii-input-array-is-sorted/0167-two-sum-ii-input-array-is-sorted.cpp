@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
+        // TC: O(N)
+        // SC: O(1)
+
         int i = 0;
         int j = numbers.size() - 1;
 
