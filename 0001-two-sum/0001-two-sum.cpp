@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        // TC: O(N)
+        // SC: O(N)
+        
         unordered_map<int, int> hashset;
         int n = nums.size();
 
