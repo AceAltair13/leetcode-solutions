@@ -9,9 +9,6 @@ class Solution:
         # TC: O(M + N)
         # SC: O(1)
 
-        if not headA or not headB:
-            return
-
         p1 = headA
         p2 = headB
 
