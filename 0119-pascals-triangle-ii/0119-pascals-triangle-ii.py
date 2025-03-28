@@ -1,5 +1,8 @@
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
+        # TC: O(N^2)
+        # SC: O(N)
+
         row = [0] * (rowIndex + 1)
         row[0] = 1
 
