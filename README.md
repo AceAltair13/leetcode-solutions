@@ -276,12 +276,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AceAltair13/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/AceAltair13/leetcode-solutions/tree/master/0089-gray-code) |
 | [1014-k-closest-points-to-origin](https://github.com/AceAltair13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AceAltair13/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AceAltair13/leetcode-solutions/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/AceAltair13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AceAltair13/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Doubly-Linked List
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AceAltair13/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AceAltair13/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AceAltair13/leetcode-solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/AceAltair13/leetcode-solutions/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/AceAltair13/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Memoization
