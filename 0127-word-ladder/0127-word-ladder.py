@@ -1,5 +1,8 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+        # TC: O(N * L^2)
+        # SC: O(N)
+
         wordList = set(wordList)
 
         if endWord not in wordList:
