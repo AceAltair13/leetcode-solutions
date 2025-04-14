@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AceAltair13/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AceAltair13/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AceAltair13/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/AceAltair13/leetcode-solutions/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AceAltair13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AceAltair13/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/AceAltair13/leetcode-solutions/tree/master/0089-gray-code) |
+| [0204-count-primes](https://github.com/AceAltair13/leetcode-solutions/tree/master/0204-count-primes) |
 | [1014-k-closest-points-to-origin](https://github.com/AceAltair13/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AceAltair13/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
@@ -498,4 +500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AceAltair13/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AceAltair13/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AceAltair13/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
