@@ -1,5 +1,8 @@
 class Solution:
     def countPrimes(self, n: int) -> int:
+        # TC: O(NloglogN)
+        # SC: O(N)
+
         if n < 2:
             return 0
 
