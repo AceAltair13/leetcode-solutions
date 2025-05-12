@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AceAltair13/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AceAltair13/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/AceAltair13/leetcode-solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AceAltair13/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AceAltair13/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AceAltair13/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AceAltair13/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AceAltair13/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AceAltair13/leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/AceAltair13/leetcode-solutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/AceAltair13/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AceAltair13/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AceAltair13/leetcode-solutions/tree/master/0621-task-scheduler) |
