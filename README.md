@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/AceAltair13/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/AceAltair13/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/AceAltair13/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/AceAltair13/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/AceAltair13/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AceAltair13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AceAltair13/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/AceAltair13/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0729-my-calendar-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/AceAltair13/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/AceAltair13/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AceAltair13/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AceAltair13/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0729-my-calendar-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AceAltair13/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/AceAltair13/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/AceAltair13/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
@@ -520,4 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AceAltair13/leetcode-solutions/tree/master/0204-count-primes) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AceAltair13/leetcode-solutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
